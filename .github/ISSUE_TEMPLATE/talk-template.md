@@ -7,7 +7,11 @@ assignees: brakhane
 
 ---
 
-## Is this a talk you want to hold, or are you interested in somebody holding a talk?
+## Administrative Info
+
+#### Is this a talk you want to hold or are you interested in somebody talking about this topic?
+
+#### In case you hold the talk, how long will the talk roughly be?
 
 ## Description
 
