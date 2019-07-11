@@ -5,3 +5,12 @@ This repository is used to archive and schedule talks of the [Python User Group 
 Talks are proposed and scheduled in the Issues section. If you find a proposed talk interesting, react with the thumbs up emoji. This helps us judge popularity when scheduling talks.
 
 Scheduled tasks are added to a milestone, each milestone is one Meetup date
+
+Usually the meetup is on every 4th Tuesday of a month:
+
+| planned date | topic(s)              |
+|--------------|-----------------------|
+|23.07.19      |tbd                    |
+|27.08.19      |tbd                    |
+
+Please check the Meetup group for the actual date and location details.
