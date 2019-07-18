@@ -10,7 +10,7 @@ Usually the meetup is on every 4th Tuesday of a month:
 
 | planned date | topic(s)              |
 |--------------|-----------------------|
-|23.07.19      |tbd                    |
+|23.07.19      |Lightweight Profiling  |
 |27.08.19      |tbd                    |
 
 Please check the Meetup group for the actual date and location details.
