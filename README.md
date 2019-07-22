@@ -8,9 +8,9 @@ Scheduled tasks are added to a milestone, each milestone is one Meetup date
 
 Usually the meetup is on every 4th Tuesday of a month:
 
-| planned date | topic(s)              |
-|--------------|-----------------------|
-|23.07.19      |Lightweight Profiling  |
-|27.08.19      |tbd                    |
+| planned date | Beginner Slot | General Slot |
+|--------------|---------------|--------------|
+|23.07.19      |Peeking under the hood of class construction | Lightweight Profiling  |
+|27.08.19      | tbd | tbd |
 
 Please check the Meetup group for the actual date and location details.
