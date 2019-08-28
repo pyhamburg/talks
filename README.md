@@ -17,5 +17,6 @@ Please check the Meetup group for the actual date and location details.
 History:
 
 | planned date | Beginner Slot | General Slot |
+|--------------|---------------|--------------|
 |27.08.19      | Building fast web services with FastAPI | Deep Learning Pipelines and Benchmarking Spark |
 |23.07.19      |Peeking under the hood of class construction | Lightweight Profiling  |
