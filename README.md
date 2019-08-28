@@ -1,4 +1,4 @@
-# Python User Group Hamburg Talks Archive
+# Python User Group Hamburg Talks
 
 This repository is used to archive and schedule talks of the [Python User Group Hamburg](https://www.meetup.com/Python-User-Group-Hamburg/)
 
@@ -14,7 +14,7 @@ Usually the meetup is on every 4th Tuesday of a month:
 
 Please check the Meetup group for the actual date and location details.
 
-History:
+## Talks in the past
 
 | planned date | Beginner Slot | General Slot |
 |--------------|---------------|--------------|
