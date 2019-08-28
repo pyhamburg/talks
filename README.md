@@ -10,7 +10,12 @@ Usually the meetup is on every 4th Tuesday of a month:
 
 | planned date | Beginner Slot | General Slot |
 |--------------|---------------|--------------|
-|23.07.19      |Peeking under the hood of class construction | Lightweight Profiling  |
-|27.08.19      | tbd | tbd |
+|24.9.19|tbd|tbd|
 
 Please check the Meetup group for the actual date and location details.
+
+History:
+
+| planned date | Beginner Slot | General Slot |
+|27.08.19      | Building fast web services with FastAPI | Deep Learning Pipelines and Benchmarking Spark |
+|23.07.19      |Peeking under the hood of class construction | Lightweight Profiling  |
